@@ -1,4 +1,7 @@
+#Original version https://github.com/GuidoFe/weather-polybar-plugin
+
 # weather-polybar-plugin
+
 Weather plugin for the polybar panel
 
 ![preview](https://raw.githubusercontent.com/GuidoFe/weather-polybar-plugin/main/preview.png)
