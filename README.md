@@ -1,4 +1,4 @@
-#Original version https://github.com/GuidoFe/weather-polybar-plugin
+# Original version https://github.com/GuidoFe/weather-polybar-plugin
 
 # weather-polybar-plugin
 
